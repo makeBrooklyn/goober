@@ -1,0 +1,1 @@
+<script src="<?php echo "../theme/" . $site_theme . "/script/script.js" ; ?>"></script>
